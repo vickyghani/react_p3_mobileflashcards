@@ -11,9 +11,19 @@ Installation
 ---
 
 The step to get started developing:
-* Install all project dependencies with ```yarn install```
+* install all project dependencies with ```yarn install```
 * start the development server with ```yarn start```
-* run http://localhost:3000/ to open the app
+* browser will open with the Metro Bundler running at port 19002 with the address: http://localhost:19002/
+
+
+Testing on Devices
+---
+
+For testing the apps both on Android and iOS physical devices:
+* install [Expo](https://expo.io/) on both Android and iOS
+* all devices (Android and iOS) should be connected on the same network
+* run Expo on the Android device, then scan the QR Code available on the browser running the Metro Bundler
+* run Expo on the iOS device, paste the link of your local IP Adress:19002 in Safari running on iOS
 
 
 Result
