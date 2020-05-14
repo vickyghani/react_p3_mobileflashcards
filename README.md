@@ -26,6 +26,11 @@ For testing the apps both on Android and iOS physical devices:
 * run Expo on the iOS device, paste the link of your ```Local IP Adress``` in Safari running on iOS
 
 
+Dev Tests
+---
+
+I have internally tested through Android Simulator and iPhone SE. Everything looks fine.
+
 Result
 ---
 
