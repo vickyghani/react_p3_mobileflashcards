@@ -7,14 +7,14 @@ Overview
 Result of Mobile Flashcards from React Nanodegree
 
 
-Goal
+Installation
 ---
 
-The goals of this project are the following:
-* Descriptions are printed to the console for the player to see
-* Refactor code by defining and calling functions
-* Write code that follows the standard Python style guide, using pycodestyle
-* Code is ready for review, meaning new lines and indentation are used for easy readability
+The step to get started developing:
+* Based on [Create React App](https://github.com/facebookincubator/create-react-app) to bootstrap the project
+* Install all project dependencies with ```npm install```
+* start the development server with ```npm start```
+* run http://localhost:3000/ to open the app
 
 
 Result
