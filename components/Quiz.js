@@ -19,7 +19,7 @@ export class Quiz extends Component {
 
     handleAnswer = (question, userAnswer) => {
         const { answer } = question
-        if (answer.toLowerCase() === userAnswer) {
+        if ('true' === userAnswer) {
             this.setState({
                 corrects: this.state.corrects + 1,
             })
@@ -120,7 +120,7 @@ export class Quiz extends Component {
                         <Text style={styles.btnText}>Correct</Text>
                     </TouchableOpacity>
                     <TouchableOpacity style={[styles.correctBtn, styles.wrongBtn]} onPress={() => this.handleAnswer(question, 'false')}>
-                        <Text style={styles.secondaryText}>Wrong</Text>
+                        <Text style={styles.secondaryText}>Incorrect</Text>
                     </TouchableOpacity>
                 </View>
             </View>
