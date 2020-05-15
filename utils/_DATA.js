@@ -3,12 +3,12 @@ export const decks = {
       title: 'React',
       questions: [
         {
-          question: 'is React a JavaScript library for building user interfaces?',
-          answer: 'Correct'
+          question: 'What is React?',
+          answer: 'React is a JavaScript library for building user interfaces'
         },
         {
-          question: 'is React maintaned by Microsoft and Apple together?',
-          answer: 'Incorrect'
+          question: 'React maintaned by?',
+          answer: 'React maintaned by Facebook and a community of individual developers and companies'
         }
       ]
     },
@@ -17,11 +17,11 @@ export const decks = {
       questions: [
         {
           question: 'is JavaScript the same as Java?',
-          answer: 'Incorrect'
+          answer: 'No, JavaScript is not the same as Java'
         },
         {
-          question: 'is JavaScript a programming language?',
-          answer: 'Correct'
+          question: 'When JavaScript First Appeared?',
+          answer: 'December 4, 1995'
         }
       ]
     }
