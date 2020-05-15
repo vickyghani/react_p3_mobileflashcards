@@ -2934,8 +2934,6 @@ jest-haste-map@^24.7.1:
     micromatch "^3.1.10"
     sane "^4.0.3"
     walker "^1.0.7"
-  optionalDependencies:
-    fsevents "^1.2.7"
 
 jest-message-util@^24.9.0:
   version "24.9.0"
