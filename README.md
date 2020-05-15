@@ -35,7 +35,7 @@ Result
 ---
 
 [//]: # (Image References)
-[pipe0]: ./result/screenshot.png "Mobile Flashcards"
+[pipe0]: ./result/screenshoot.png "Mobile Flashcards"
 
 This is a result from this project 
 
