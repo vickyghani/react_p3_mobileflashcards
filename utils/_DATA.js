@@ -4,11 +4,11 @@ export const decks = {
       questions: [
         {
           question: 'is React a JavaScript library for building user interfaces?',
-          answer: 'true'
+          answer: 'Correct'
         },
         {
           question: 'is React maintaned by Microsoft and Apple together?',
-          answer: 'false'
+          answer: 'Incorrect'
         }
       ]
     },
@@ -17,11 +17,11 @@ export const decks = {
       questions: [
         {
           question: 'is JavaScript the same as Java?',
-          answer: 'false'
+          answer: 'Incorrect'
         },
         {
           question: 'is JavaScript a programming language?',
-          answer: 'true'
+          answer: 'Correct'
         }
       ]
     }
